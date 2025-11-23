@@ -24,10 +24,11 @@ flow.state is a web application that combines biometric data with creative tools
 
 ### Tech Stack
 
-- React 18 (via CDN)
-- Tailwind CSS (via CDN)
+- React 18
+- Tailwind CSS
 - Google Gemini AI API
-- Vanilla JavaScript/HTML/CSS
+- JavaScript/HTML/CSS
+- Python
 
 ## Project Structure
 
